@@ -1,0 +1,17 @@
+{
+    "name": "VOL",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/administrator_role": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single",
+        "/category/asset_value_tracking/token/supply": "100000000",
+        "/category/asset_value_tracking/token/decimals": "8",
+        "/category/asset_value_tracking/token/symbol": "VOL",
+        "/category/asset_value_tracking/token/name": "Naf Vol Currency",
+        "/category/collection/entity": true
+    }
+}
